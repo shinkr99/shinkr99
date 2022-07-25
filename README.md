@@ -2,13 +2,9 @@
 <h3 align="center">Sou Desenvolvedor Web, focado em Front-end</h3>
 
 - 🔭 **Moro em São Paulo, Brasil**
-
 - 🤝 **Estou sempre em buscas de novos projetos e ideias para aprendizado**
-
 - 🌱 **Atualmente estou estudando Node**
-
 - 💬 **Participando do XP 43 da Gama Academy**
-
 - ⚡ **Gosto bastante de jogar no meu tempo livre**
 
 <h3 align="left">Connect with me:</h3>
