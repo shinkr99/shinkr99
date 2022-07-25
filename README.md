@@ -6,6 +6,7 @@
 - 🌱 **Atualmente estou estudando Node**
 - 💬 **Participando do XP 43 da Gama Academy**
 - ⚡ **Gosto bastante de jogar no meu tempo livre**
+- 📫 **Contate-me através das redes abaixo**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
