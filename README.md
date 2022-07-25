@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Shin</h1>
-<h3 align="center">Sou estudante de Desenvolvimento Web, focado em Front-end</h3>
+<h3 align="center">Sou Desenvolvedor Web, focado em Front-end</h3>
 
 - 🔭 **Moro em São Paulo, Brasil**
 
