@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinkr99&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="shinkr99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinkr99&show_icons=true&theme=radical&locale=en" alt="shinkr99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinkr99&show_icons=true&theme=radical&hide_border=true&locale=en" alt="shinkr99" /></p>
