@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shinouin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shinouin/" height="30" width="40" /></a>
-<a href="https://discord.gg/Shin#1450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shin#1450" height="30" width="40" /></a>
+<a href="https://discord.gg/FutfYdMQC8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shin#1450" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
