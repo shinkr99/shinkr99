@@ -3,10 +3,10 @@
 
 - 🔭 **Moro em São Paulo, Brasil**
 - 🤝 **Estou sempre em buscas de novos projetos e ideias para aprendizado**
-- 🌱 **Atualmente estou estudando Node**
+- 🌱 **Atualmente estou estudando e me aprimorando em React**
 - 💬 **Participando do XP 43 da Gama Academy**
 - ⚡ **Gosto bastante de jogar no meu tempo livre**
-- 📫 **Contate-me através das redes abaixo**
+- 📫 **Contate-me através do Linkedin**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
